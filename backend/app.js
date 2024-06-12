@@ -12,21 +12,24 @@ const app = express();
 //!middleware
 app.use(express.json());
 
-// Define a function to run the model
-async function run() {
+//!generate content route
+app.post("/generate", async (req, res) => {
+    const { prompt } = req.body;
+    try {
+    // For text-only input, use the gemini-pro model
+    const model = genAI.getGenerativeModel({ model: "gemini-pro"});
+    const result = await model.generateContent(prompt);
+    const response = await result.response;
+    const text = response.text(); 
+   res.send(text);
+    }
+    catch (error) {
+        res.status(500).send({ message: "Internal server error| Failed to generate content" });
+    }
+   
+});
 
-// For text-only input, use the gemini-pro model
-const model = genAI.getGenerativeModel({ model: "gemini-pro"});
 
-// Define a prompt
-const prompt = "Write a story about a magic backpack."
-const result = await model.generateContent(prompt);
-const response = await result.response;
-const text = response.text(); 
-console.log(text);
-}
-
-// Run the model
 //!start the server
 app.listen(3000, () => {
     console.log("Server is running on port 3000")
