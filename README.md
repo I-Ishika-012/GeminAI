@@ -7,13 +7,14 @@ GeminAI is a web based Artificial Intelligence Content Generator developed using
 ### Enter a prompt and let GeminAI craft a unique content for you! 👩🏽‍💻
 <hr>
 
-#### About Gemini by Google
+### About Gemini by Google
 Gemini AI is a part of family of multi-model large language models (LLMs) developed by Google Deep Mind. It's versatile, flexible, and easy to use.
 
 This project uses the Genini AI API which can be accesed using the link below.
 [https://ai.google.dev/]
+<hr>
 
-#### Setup and Prerequesites
+### Setup and Prerequesites
 
 Initialize the project as NPM 
 (Click here to know more  : [https://www.npmjs.com/])
