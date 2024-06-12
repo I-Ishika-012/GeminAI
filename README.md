@@ -27,6 +27,7 @@ This project primarily uses ViteJS as a frontend tool.
 <br>
 <hr>
 <br>
+
 ### Setup and Prerequesites
 
 <b>🗒️Note: 
