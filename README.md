@@ -26,6 +26,7 @@ npm init --yes
 ```
 
 To use the Gemini API, you'll need an API key. If you don't already have one, create a key in Google AI Studio.
+
 [Get API Key here](https://aistudio.google.com/app/apikey)
 
 Install the SDK~
