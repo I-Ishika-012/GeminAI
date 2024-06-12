@@ -2,7 +2,7 @@
 ## AI Content Generator✨
 ### Powered by Google's Gemini
 <hr><br>
-GeminAI is a web based Artificial Intelligence Content Generator developed using MERN (Mongo DB, Express.JS, React.JS, Node.JS) Stack + ViteJS + TanstackQuery, using Google's largest, most capable and very own AI model Gemini AI.
+GeminAI is a web based Artificial Intelligence Content Generator developed using MERN (Mongo DB, Express.JS, React.JS, Node.JS) Stack + ViteJS + TanstackQuery + Axios, using Google's largest, most capable and very own AI model Gemini AI.
 
 ### Enter a prompt and let GeminAI craft a unique content for you! 👩🏽‍💻
 <br>
@@ -37,6 +37,17 @@ TanStack Query is a library used for data retrieval, caching, data synchronizati
 This project makes use of TanstackQuery as a library for server-state management.
 
 [Know More About TanstackQuery](https://tanstack.com/query/latest)
+
+<br>
+<hr>
+<br>
+
+### About Axios
+TPromise based HTTP client for the browser and node.js 9runs in browser and node.js with same codebase). 
+
+This project makes use of Axios as a client to make http requests from node.js, intercept request and response, transform request and response data, handle timeouts, etc.
+
+[Know More About Axios](https://axios-http.com/docs/intro)
 
 <br>
 <hr>
