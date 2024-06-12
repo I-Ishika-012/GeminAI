@@ -23,7 +23,7 @@ This project uses the Genini AI API which can be accesed using the link below.
 🔴 This projet is for text-only input, using the gemini-pro model
 <b>
 
-
+<br>
 Initialize the project as NPM ~
 
 [Click here to know more](https://www.npmjs.com/)
