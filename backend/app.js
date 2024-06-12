@@ -8,6 +8,8 @@ const genAI=new GoogleGenerativeAI(process.env.API_KEY);
 
 //!express instance
 const app = express();
+
+//!middleware
 app.use(express.json());
 
 // Define a function to run the model
