@@ -118,4 +118,12 @@ Running The App~
 ```
 npm dev run
 ```
+<br>
+
+Installing Axios Client~
+
+```
+$ npm install axios
+```
+<br>
 
