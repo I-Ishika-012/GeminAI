@@ -16,6 +16,8 @@ This project uses the Genini AI API which can be accesed using the link below.
 
 ### Setup and Prerequesites
 
+<b>Note: Make sure that your development environment meets the following requirements: * Node.js v18+ * npm <b>
+
 Initialize the project as NPM 
 (Click here to know more  : [https://www.npmjs.com/])
 ```
