@@ -36,7 +36,7 @@ TanStack Query is a library used for data retrieval, caching, data synchronizati
 
 This project makes use of TanstackQuery as a library for server-state management.
 
-[Know More About TanstackQuery]([https://vitejs.dev/](https://tanstack.com/query/latest)
+[Know More About TanstackQuery](https://tanstack.com/query/latest)
 
 <br>
 <hr>
