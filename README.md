@@ -2,7 +2,7 @@
 ## AI Content Generator✨
 ### Powered by Google's Gemini
 <hr><br>
-GeminAI is a web based Artificial Intelligence Content Generator developed using MERN (Mongo DB, Express.JS, React.JS, Node.JS) Stack + ViteJS using Google's largest, most capable and very own AI model Gemini AI.
+GeminAI is a web based Artificial Intelligence Content Generator developed using MERN (Mongo DB, Express.JS, React.JS, Node.JS) Stack + ViteJS + [TanstackQuery](https://tanstack.com/query/latest), using Google's largest, most capable and very own AI model Gemini AI.
 
 ### Enter a prompt and let GeminAI craft a unique content for you! 👩🏽‍💻
 <br>
@@ -15,6 +15,7 @@ Gemini AI is a part of family of multi-model large language models (LLMs) develo
 This project uses the Genini AI API which can be accesed using the link below.
 
 [Know More](https://ai.google.dev/)
+
 <br>
 <hr>
 <br>
@@ -25,6 +26,7 @@ Vite is a build tool that lets you configure a development environment for Vue, 
 This project primarily uses ViteJS as a frontend tool.
 
 [Know More About ViteJS](https://vitejs.dev/)
+
 <br>
 <hr>
 <br>
