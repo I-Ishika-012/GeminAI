@@ -100,3 +100,11 @@ yarn add @tanstack/react-query
 # or
 bun add @tanstack/react-query
 ```
+<br>
+
+Running The App~
+
+```
+npm dev run
+```
+
