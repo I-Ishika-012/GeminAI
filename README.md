@@ -12,3 +12,11 @@ Gemini AI is a part of family of multi-model large language models (LLMs) develo
 
 This project uses the Genini AI API which can be accesed using the link below.
 [https://ai.google.dev/]
+
+#### Setup and Prerequesites
+
+Initialize the project as NPM 
+(Click here to know more  : [https://www.npmjs.com/])
+```
+npm init --yes
+```
