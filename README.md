@@ -19,6 +19,7 @@ This project uses the Genini AI API which can be accesed using the link below.
 <b>Note: Make sure that your development environment meets the following requirements: * Node.js v18+ * npm <b>
 
 Initialize the project as NPM ~
+
 [Click here to know more](https://www.npmjs.com/)
 ```
 npm init --yes
@@ -31,4 +32,9 @@ Install the SDK~
 To use the Gemini API in your own application, you need to install the GoogleGenerativeAI package for Node.js:
 ```
 npm install @google/generative-ai
+```
+Securing APIs~
+
+```
+npm i express cors dotenv
 ```
