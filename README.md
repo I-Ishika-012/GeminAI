@@ -127,4 +127,4 @@ $ npm install axios
 ```
 <br>
 
-![Appshot](Web Dev Projects/GeminAI/frontend/geminai/public/appshot.png " Appshot - Snapshot for GeminAI App")
+<img title="Appshot" alt="Appshot" src="Web Dev Projects/GeminAI/frontend/geminai/public/appshot.png"/>
